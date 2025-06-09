@@ -28,6 +28,18 @@ Catmillón es una aplicación interactiva desarrollada con React y Vite, pensada
 
 Me gustaría ampliar esta app añadiendo una base de datos donde se registren las últimas combinaciones generadas. Así, los usuarios podrían consultar el historial de partidas y ver las combinaciones anteriores, haciendo la experiencia más completa y divertida.
 
+## Mejoras opcionales implementadas
+
+- Animaciones y sonidos para una experiencia más divertida.
+- Modal de información accesible desde el navbar.
+- App responsive: funciona en tablets, móviles y escritorio.
+- Botón de reinicio para volver a jugar fácilmente.
+
+## URL de la aplicación
+
+Puedes probar la app online aquí:  
+[https://mi-proyecto-bay.vercel.app/](https://mi-proyecto-bay.vercel.app/)
+
 ## Capturas de pantalla
 
 <p >
