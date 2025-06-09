@@ -71,25 +71,6 @@ function App() {
     setIsSpinning(true);
   };
 
-  // AVISO: Solo mostrar la app si el ancho es de tablet
-  if (window.innerWidth > 900) {
-    return (
-      <div
-        style={{
-          textAlign: "center",
-          marginTop: "100px",
-          color: "#fff",
-          fontSize: "2em",
-        }}
-      >
-        Esta app está diseñada para tablet para que los gatos puedan interactuar
-        con ella.
-        <br />
-        Por favor, reduce el tamaño de la ventana o usa una tablet para verla
-        correctamente.
-      </div>
-    );
-  }
   return (
     <>
       <div className="tablet-frame">
